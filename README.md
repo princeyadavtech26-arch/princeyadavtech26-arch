@@ -74,7 +74,7 @@ Key Skills:
 - Date Functions
 - Business Analysis
 
-🔗 "View Project" (https://github.com/princeyadavtech26-arch)
+🔗 "View Project" (https://github.com/princeyadavtech26-arch/olist-ecommerce-sql-analysis)
 
 ---
 
@@ -93,7 +93,7 @@ Key Skills:
 - Business KPIs
 - Data Analysis
 
-🔗 "View Project" (https://github.com/princeyadavtech26-arch)
+🔗 "View Project" (https://github.com/princeyadavtech26-arch/pizza-sales-sql-analysis)
 
 ---
 
@@ -112,7 +112,7 @@ Key Skills:
 - Interactive Dashboards
 - Data Visualization
 
-🔗 "View Project" (https://github.com/princeyadavtech26-arch)
+🔗 "View Project" (https://github.com/princeyadavtech26-arch/hr-analytics-powerbi)
 
 ---
 
@@ -131,7 +131,7 @@ Key Skills:
 - Interactive Visualization
 - Business Insights
 
-🔗 "View Project" (https://github.com/princeyadavtech26-arch)
+🔗 "View Project" (https://github.com/princeyadavtech26-arch/global-airbnb-analysis)
 
 ---
 
