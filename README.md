@@ -1,137 +1,169 @@
-# 👋 Hi, I'm Prince Yadav
+Hi, I'm Prince Yadav 👋
 
-### 💻 B.Tech CSE Student | Aspiring Data Analyst
+Aspiring Data Analyst | SQL | Power BI | Excel | Python
 
-I am a B.Tech Computer Science student interested in **Data Analytics, SQL, Power BI, and Business Intelligence**.
+I'm a B.Tech Computer Science Engineering student interested in Data Analytics and Business Intelligence.
 
-I enjoy working with data to find patterns, analyze business problems, and create meaningful insights through SQL queries and interactive dashboards.
+I enjoy working with data to clean, analyze, visualize, and generate meaningful insights that can support better business decisions.
 
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech CSE Student
-- 📊 Aspiring Data Analyst
-- 🗄️ Working with SQL & MySQL
-- 📈 Building dashboards with Power BI
-- 📊 Advanced Excel
-- 🐍 Basic Python
-- 💡 Interested in Data Analytics & Business Intelligence
-- 🔎 Currently building practical data analytics projects
+Currently, I'm building practical projects using SQL, Power BI, Advanced Excel, and Python while improving my analytical and problem-solving skills.
 
 ---
 
-## 🛠️ Skills
+🛠️ Technical Skills
 
-### 📊 Data Analytics
+Data Analytics
+
 - SQL
-- MySQL
-- Advanced Excel
+- Data Cleaning
+- Data Analysis
+- Exploratory Data Analysis (EDA)
+- Business Insights
+
+Visualization & BI
+
 - Power BI
-- Power Query
 - DAX
+- Data Modeling
+- Dashboard Development
 
-### 💻 Programming
-- Python
-- SQL
+Excel
 
-### 📈 Data Visualization
-- Power BI Dashboards
-- KPI Analysis
-- Trend Analysis
-- Business Data Analysis
+- Advanced Excel
+- Pivot Tables
+- Power Query
+- Data Cleaning
 - Data Visualization
 
----
+Programming
 
-## 📂 Featured Projects
+- Python
+- Pandas
+- NumPy
+- Basic Data Analysis
 
-### 🍕 Pizza Sales SQL Analysis
+Database
 
-SQL-based analysis of pizza sales data using MySQL.
+- MySQL
 
-**Key Areas:**
-- Order analysis
-- Revenue analysis
-- Pizza performance
-- Category analysis
-- Order timing
-- Daily order analysis
-- Revenue contribution
-- Cumulative revenue
+Tools
 
-**Tools:** MySQL | SQL
-
-🔗 [View Project](https://github.com/princeyadavtech26-arch/pizza-sales-sql-analysis)
+- Git
+- GitHub
+- Power BI Desktop
+- Microsoft Excel
 
 ---
 
-### 🏠 Global Airbnb Performance Dashboard
+📊 Featured Projects
 
-Interactive Power BI dashboard analyzing Airbnb listings, hosts, reviews, cities, property types, market share, and review frequency.
+🛒 Olist E-Commerce SQL Analysis
 
-**Key Areas:**
-- Global listing performance
-- Market share by city
-- Host analysis
-- Review frequency
-- Rating analysis
-- Market trends
+Tools: MySQL, SQL
 
-**Tools:** Power BI | Power Query | DAX
+Analyzed an e-commerce dataset to answer business questions related to customers, orders, payments, products, sellers, and sales performance.
 
-🔗 [View Project](https://github.com/princeyadavtech26-arch/global-airbnb-analysis)
+Key Skills:
 
----
+- Joins
+- Aggregations
+- GROUP BY
+- Subqueries
+- CTEs
+- Window Functions
+- Date Functions
+- Business Analysis
 
-### 🛒 Olist E-Commerce SQL Analysis
-
-SQL-based e-commerce data analysis project using the Brazilian Olist dataset.
-
-**Key Areas:**
-- Order performance
-- Order status analysis
-- Product sales
-- Product category performance
-- Customer spending
-- Monthly revenue trends
-- Customer reviews
-- Seller revenue performance
-
-**Tools:** MySQL | SQL
-
-🔗 [View Project](https://github.com/princeyadavtech26-arch/olist-ecommerce-sql-analysis)
+🔗 "View Project" (https://github.com/princeyadavtech26-arch)
 
 ---
 
-## 📚 Currently Learning
+🍕 Pizza Sales SQL Analysis
 
-- Advanced SQL
-- Data Analytics
+Tools: MySQL, SQL
+
+Analyzed pizza sales data to understand sales performance, customer ordering patterns, popular products, and revenue-related metrics.
+
+Key Skills:
+
+- SQL Queries
+- Joins
+- Aggregations
+- Date & Time Analysis
+- Business KPIs
+- Data Analysis
+
+🔗 "View Project" (https://github.com/princeyadavtech26-arch)
+
+---
+
+👥 HR Analytics Dashboard
+
+Tools: Power BI, DAX
+
+Created an interactive HR Analytics dashboard to analyze employee attrition, workforce distribution, job satisfaction, and department-level insights.
+
+Key Skills:
+
 - Power BI
 - DAX
+- Data Modeling
+- KPI Development
+- Interactive Dashboards
+- Data Visualization
+
+🔗 "View Project" (https://github.com/princeyadavtech26-arch)
+
+---
+
+🏠 Airbnb Analysis Dashboard
+
+Tools: Power BI, DAX
+
+Built an interactive Airbnb analytics dashboard to explore listings, hosts, reviews, pricing, and geographic trends.
+
+Key Skills:
+
+- Power BI
+- Data Cleaning
+- Data Modeling
+- DAX
+- Interactive Visualization
+- Business Insights
+
+🔗 "View Project" (https://github.com/princeyadavtech26-arch)
+
+---
+
+📈 Currently Learning
+
+- Advanced SQL
+- Advanced Power BI & DAX
 - Python for Data Analysis
+- Statistics for Data Analytics
+- Data Visualization
 - Business Intelligence
 
 ---
 
-## 🎯 Career Goal
+🎯 Career Goal
 
-To build strong practical skills in **Data Analytics** and work on real-world data problems using SQL, Power BI, Excel, and Python.
+I'm looking for opportunities to start my career as a:
 
----
+Data Analyst | Business Intelligence Analyst | BI Intern | Data Analytics Intern
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [Prince Yadav](https://www.linkedin.com/in/prince-yadav-2728a1402/)
-- 🐙 GitHub: [princeyadavtech26-arch](https://github.com/princeyadavtech26-arch)
+I'm interested in applying my analytical skills to real-world business problems and continuing to grow through practical projects and professional experience.
 
 ---
 
-## ⚡ Tech Stack
+📫 Connect With Me
 
-`SQL` `MySQL` `Power BI` `DAX` `Power Query` `Advanced Excel` `Python`
+- 💼 LinkedIn: "Prince Yadav" (https://www.linkedin.com/in/prince-yadav-2728a1402?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 💻 GitHub: "princeyadavtech26-arch" (https://github.com/princeyadavtech26-arch)
+- 📧 Email: YOUR_EMAIL
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+⭐ Thanks for visiting my profile!
+
+I'm continuously learning, building projects, and improving my data analytics skills.
